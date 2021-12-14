@@ -1,0 +1,13 @@
+.. Documentation_VS documentation master file, created by
+   sphinx-quickstart on Wed Feb  7 17:31:47 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Добро пожаловать в документацию "Змейки"
+========================================================
+
+.. toctree::
+   :maxdepth: 3
+   
+   main_win
+   sections
